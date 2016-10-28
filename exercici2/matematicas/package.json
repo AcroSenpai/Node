@@ -1,0 +1,11 @@
+{
+  "name": "matematicas",
+  "version": "1.0.0",
+  "description": "funciones matematicas",
+  "main": "matematicas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "Aitor",
+  "license": "ISC"
+}
